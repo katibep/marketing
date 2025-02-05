@@ -103,9 +103,7 @@ export default async function Page() {
             className="w-full max-w-md mx-auto"
           />
         </div>
-        <div>
-          <p>hi</p>
-        </div>
+        
       </section>
 
       {/* Payment Partners */}
